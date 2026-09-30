@@ -1,0 +1,9 @@
+
+# Firebase Admin SDK credentials
+server/config/serviceAccountKey.json
+
+# Private Student Data
+server/data/private/
+
+# Server env
+server/.env
